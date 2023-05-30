@@ -4,7 +4,6 @@
   <li> Entendendo D.O.M. </li>
   <li> Oque é D.O.M. </li>
   <li> Oque é Shadow D.O.M. </li>
-  <li> Oque é D.O.M. </li>
   <li>diferenca entre Elementos e Components </li>
     <li> um conjunto de elementos é Components </li>
  </ol>
